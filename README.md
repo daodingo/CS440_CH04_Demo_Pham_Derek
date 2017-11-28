@@ -1,3 +1,3 @@
 # CS440_CH04_Demo_Pham_Derek
 
-Hello
+I chose the GNU General Public License because it is a good license for ensuring that you can claim copyright of your content and that you have the freedom to distribute, copy, and modify the content. All content that is created from the code/source code has to be distributed under this same license as well, ensuring that the material remains and grants freedom of use. This is really important, because we discussed about free software, and this license protects this very idea. This goes under the concept of copyleft protection, in which material is free to be changed by a user, and continues to be free and modifiable by any users before and after. This is the reason I chose this particular license, as it grants the greatest amount of freedom in how I can interact with code and how I choose to distribute it in the future.
